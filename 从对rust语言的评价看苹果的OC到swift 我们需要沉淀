@@ -1,0 +1,6 @@
+从对rust语言的评价看苹果的OC到swift 我们需要沉淀
+开发语言：
+注：编译时多态 与 运行时多态  ；指针引用计数； 模式匹配 函数式 block；libevent 到data-trace 多线程
+
+从ECMA javascript 看苹果的OC到swift 我们需要沉淀
+js 的 惰性载入函数 函数绑定  函数柯里化 函数节流 类对象 到JSCore通过OC运行时多态 共享信息
